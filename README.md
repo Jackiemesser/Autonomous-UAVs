@@ -81,7 +81,8 @@ List of open-source algorithms and resources for UAVs
 | [ACADO toolkit](http://acado.github.io/index.html)                |             | MPC toolkit that takes care of the implementation                                                                        |                               |
 | [MPC ETH](https://github.com/ethz-asl/mav_control_rw)                      | ETH         | also has PX4 implementation (claim badly hacked though)                                                                  |                     |
 | [mavros_controller](https://github.com/Jaeyoung-Lim/mavros_controllers)            | PX4         | trajectory tracking based on geometric control                                                                           |              |
-| [DDC-MPC](https://github.com/uzh-rpg/data_driven_mpc)                      |             | ETH MPC                                                                                                                  |                      |
+| [DDC-MPC](https://github.com/uzh-rpg/data_driven_mpc)                      |      ETH       | Data-Driven MPC for Quadrotors
+                                                                                                                  |                      |
 
 
 ## Tools
