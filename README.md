@@ -1,5 +1,8 @@
 # Autonomous-Drones
-List of open-source algorithms and resources for UAVs
+List of open-source algorithms and resources for UAVs. 
+<div class="text-red">
+  This text is purple
+</div>
 
 ## Perception
 
