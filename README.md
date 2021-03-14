@@ -1,4 +1,4 @@
-# Autonomous-Drones
+# Autonomous Drones
 List of open-source algorithms and resources for UAVs. The list is a work in progress, so some information may be wrong and lots of useful resources are still missing.
 
 ## Perception
