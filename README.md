@@ -23,7 +23,7 @@ List of open-source algorithms and resources for UAVs
 
 
 ## Navigation
-| Algorithm   | Institution    | Background                                                                                                           | ROS           | Link                                                 |
+| Algorithm   | Institution    | Description                                                                                                           | ROS           | Link                                                 |
 |-------------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|
 | mav_trajectory_generation         | ETH          | creates polynomial path                                                                           | :heavy_check_mark: | https://github.com/ethz-asl/mav_trajectory_generation                |        
 | mav_voxblox_planning              | ETH          | planning tool using voxblox (RRT*, etc.)                                                          | :heavy_check_mark: | https://github.com/ethz-asl/mav_voxblox_planning                                                                |
@@ -46,7 +46,7 @@ List of open-source algorithms and resources for UAVs
 
 ## Autonomy
 
-| Algorithm                               | Institution  | Background                                                                              | ROS                | Link                                                               |
+| Algorithm                               | Institution  | Description                                                                              | ROS                | Link                                                               |
 |-----------------------------------------|--------------|-----------------------------------------------------------------------------------------|--------------------|--------------------------------------------------------------------|
 | sim2real_drone_racing                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark: | https://github.com/uzh-rpg/sim2real_drone_racing                   |
 | dronet: learning to fly                 | ETH          | deep learning trained from cars to predict steering angle, collision prob               | :heavy_check_mark: | https://github.com/uzh-rpg/rpg_public_dronet                       |
@@ -69,7 +69,7 @@ List of open-source algorithms and resources for UAVs
 
 ## Controls
 
-| Algorithm                    | Institution | Background                                                                                                               | ROS | Link                                                       |
+| Algorithm                    | Institution | Description                                                                                                               | ROS | Link                                                       |
 |------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------|-----|------------------------------------------------------------|
 | lbmpc_ipm                    |             |  Learning-Based Model Predictive Control (LBMPC) that uses the LBmpcIPM solver                                           |     | https://github.com/mhkabir/LBMPC                           |
 | neural_mpc                   | Berkeley    | Model Predictive Control with one-step feedforward neural network dynamics model from Model-based Reinforcement Learning |     | https://github.com/aravindsrinivas/neural-mpc              |
@@ -86,7 +86,7 @@ List of open-source algorithms and resources for UAVs
 
 ## Tools
 
-| Algorithm                  | Institution | Background                                                        | ROS | Link                                                                           |
+| Algorithm                  | Institution | Description                                                        | ROS | Link                                                                           |
 |----------------------------|-------------|-------------------------------------------------------------------|-----|--------------------------------------------------------------------------------|
 | PythonRobotics             |             | great overview of robotics                                        |     | https://github.com/AtsushiSakai/PythonRobotics                                 |
 | Awesome-robotic-tooling    |             | important tools for robotic programming                           |     | https://github.com/Ly0n/awesome-robotic-tooling                                |
