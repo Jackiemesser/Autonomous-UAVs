@@ -96,4 +96,5 @@ List of open-source algorithms and resources for UAVs
 | [hidden markov model](https://github.com/chauvinSimon/hmm_for_autonomous_driving)        |             | models lane switching, might be interesting                       |                      |
 | [modelling agents w prob](https://agentmodels.org/)    |             | MPD, POMPD, etc.                                                  |                                   |
 | [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) | ROS         | Develop robotic tasks through graphical user interface            |                                             |
-| [Zurich simulator](https://github.com/uzh-rpg/flightmare)           |             | good for RL                                                       | 
+| [Flightmare simulator](https://github.com/uzh-rpg/flightmare)           |             | Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation.                                        | 
+good for RL
