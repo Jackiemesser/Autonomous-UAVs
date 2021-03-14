@@ -32,7 +32,7 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [Deep RL with Transfer Learning](https://github.com/aqeelanwar/DRLwithTL_real)    | Georgia Tech | end-to-end navigation trained from simulation                                                     |                                                                                    |
 | [NVIDIA redtail project](https://github.com/NVIDIA-AI-IOT/redtail)            |              | Autonomous navigation for drones                                                                  |                                                                                         |
 | [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)  | HKUST        | robust and efficient trajectory planner for quads                                                 | :heavy_check_mark:                                                           |
-| [open_street_map](https://github.com/ros-geographic-info/open_street_map)     |              | Experimental packages for ROS access to Open Street Map information                               | :heavy_check_mark:                                                          |
+| [ego-planner](https://github.com/ZJU-FAST-Lab/ego-planner-swarm) | Zhejiang University |  Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments
 | [spatio-temporal semantic corridor](https://github.com/HKUST-Aerial-Robotics/spatiotemporal_semantic_corridor) | HKUST        | Safe Trajectory Generation For Complex Urban Environments Using Spatio-temporal Semantic Corridor |                                                          |
 | [EVDodgeNet](https://github.com/prgumd/EVDodgeNet)                        | ETH          | obstacle avoidance with event cameras                                                             |                                                                                             |
 | [aeplanner](https://github.com/mseln/aeplanner)                         | KTH          | unknown environment exploration based on octomap                                                  |                                                                                             |
@@ -99,3 +99,10 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [modelling agents w prob](https://agentmodels.org/)    |             | MPD, POMPD, etc.                                                  |                                   |
 | [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) |          | Develop robotic tasks through graphical user interface            |                                             |
 | [Flightmare simulator](https://github.com/uzh-rpg/flightmare)           |             | Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation.                                        | 
+
+
+## Labs/Organizations to follow
+| Github Link   | Lab Website | Where       |
+|:-------------|-------------|-------------|
+| [ZJU FAST Lab Github](https://github.com/ZJU-FAST-Lab) | [Lab](http://zju-fast.com/) | China |
+
