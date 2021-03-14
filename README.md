@@ -40,22 +40,22 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [HKUST Aerial Robotics](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)                   | HKUST        | a complete and robust system for aggressive flight in complex environment               |                          |
 | [PX4 generalized intelligence](https://github.com/generalized-intelligence/GAAS)            |              | low-level autonomy for PX4                                                              |                                      |
 | [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
+| [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
 
 ## Autonomy
 
 | Link   | Who    | Description  | ROS          |
 |:-------------|-------------|-------------|-------------|
-| [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
-| [dronet: learning to fly](https://github.com/uzh-rpg/rpg_public_dronet)                 | ETH          | deep learning trained from cars to predict steering angle, collision prob               | :heavy_check_mark: | 
-| [Deep RL w Airsim](https://github.com/guillemhub/DRLDBackEnd)                        |              | allows RL with Airsim                                                                   |                                             |
-| [Autonomous UAV swarms](https://github.com/AlexJinlei/Autonomous_UAVs_Swarm_Mission)                   |              |                                                                                         |                           |
-| [autonomous-drone](https://github.com/szebedy/autonomous-drone)                        |              | enable autonomous drone delivery w Aero RTF and PX4                                     | :heavy_check_mark:           |
-| [PEDRA](https://github.com/aqeelanwar/PEDRA)                                   | Georgia Tech | RL for drones with unreal engine                                                        |                                                   |
 | [Apollo Autonomous Driving](https://github.com/ApolloAuto/apollo)               | Apollo       | Full autonomous driving stack                                                           |                                                  |
 | [ROS_behavior_tree](https://github.com/miccol/ROS-Behavior-Tree)                       |              | Behavior trees for autonomy                                                             |                                            |
 | [planning in ROS](https://github.com/KCL-Planning/ROSPlan)                         |              | generic method for task planning                                                        | :heavy_check_mark:                            |
 | [EDUM Planner](https://github.com/HKUST-Aerial-Robotics/eudm_planner)                            | HKUST        | decision-making for automated driving using guided branching                            |                                  |
 | [autoware.ai](https://github.com/autowarefoundation/autoware.ai)                             |              | self-driving vehicles                                                                   |                                     |
+| [dronet: learning to fly](https://github.com/uzh-rpg/rpg_public_dronet)                 | ETH          | deep learning trained from cars to predict steering angle, collision prob               | :heavy_check_mark: | 
+| [Deep RL w Airsim](https://github.com/guillemhub/DRLDBackEnd)                        |              | allows RL with Airsim                                                                   |                                             |
+| [Autonomous UAV swarms](https://github.com/AlexJinlei/Autonomous_UAVs_Swarm_Mission)                   |              |                                                                                         |                           |
+| [autonomous-drone](https://github.com/szebedy/autonomous-drone)                        |              | enable autonomous drone delivery w Aero RTF and PX4                                     | :heavy_check_mark:           |
+| [PEDRA](https://github.com/aqeelanwar/PEDRA)                                   | Georgia Tech | RL for drones with unreal engine                                                        |                                                   |
 | [drif](https://github.com/VerifiableRobotics/slugs)                                    | Cornell      | Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight |                                     |
 | [slugs](https://github.com/VerifiableRobotics/slugs)                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
 | [LTL_stack](https://github.com/VerifiableRobotics/LTL_stack)                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark:                    | 
