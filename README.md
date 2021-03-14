@@ -37,6 +37,9 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [EVDodgeNet](https://github.com/prgumd/EVDodgeNet)                        | ETH          | obstacle avoidance with event cameras                                                             |                                                                                             |
 | [aeplanner](https://github.com/mseln/aeplanner)                         | KTH          | unknown environment exploration based on octomap                                                  |                                                                                             |
 | [nvbplanner](https://github.com/ethz-asl/nbvplanner)                        | ETH          | unknown environment exploration                                                                   |                                                                                        |
+| [HKUST Aerial Robotics](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)                   | HKUST        | a complete and robust system for aggressive flight in complex environment               |                          |
+| [PX4 generalized intelligence](https://github.com/generalized-intelligence/GAAS)            |              | low-level autonomy for PX4                                                              |                                      |
+| [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
 
 ## Autonomy
 
@@ -51,12 +54,8 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [Apollo Autonomous Driving](https://github.com/ApolloAuto/apollo)               | Apollo       | Full autonomous driving stack                                                           |                                                  |
 | [ROS_behavior_tree](https://github.com/miccol/ROS-Behavior-Tree)                       |              | Behavior trees for autonomy                                                             |                                            |
 | [planning in ROS](https://github.com/KCL-Planning/ROSPlan)                         |              | generic method for task planning                                                        | :heavy_check_mark:                            |
-| [HKUST Aerial Robotics](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)                   | HKUST        | a complete and robust system for aggressive flight in complex environment               |                          |
 | [EDUM Planner](https://github.com/HKUST-Aerial-Robotics/eudm_planner)                            | HKUST        | decision-making for automated driving using guided branching                            |                                  |
 | [autoware.ai](https://github.com/autowarefoundation/autoware.ai)                             |              | self-driving vehicles                                                                   |                                     |
-| [PX4 generalized intelligence](https://github.com/generalized-intelligence/GAAS)            |              | low-level autonomy for PX4                                                              |                                      |
-| [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
-| [Uncertainty estimation in deep learning](https://github.com/mattiasegu/uncertainty_estimation_deep_learning) | ETH          | can quantify uncertainty on existing neural networks                                    |                   |
 | [drif](https://github.com/VerifiableRobotics/slugs)                                    | Cornell      | Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight |                                     |
 | [slugs](https://github.com/VerifiableRobotics/slugs)                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
 | [LTL_stack](https://github.com/VerifiableRobotics/LTL_stack)                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark:                    | 
@@ -97,6 +96,7 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [hidden markov model](https://github.com/chauvinSimon/hmm_for_autonomous_driving)        |             | models lane switching, might be interesting                       |                      |
 | [modelling agents w prob](https://agentmodels.org/)    |             | MPD, POMPD, etc.                                                  |                                   |
 | [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) |          | Develop robotic tasks through graphical user interface            |                                             |
+| [Uncertainty estimation in deep learning](https://github.com/mattiasegu/uncertainty_estimation_deep_learning) | ETH          | can quantify uncertainty on existing neural networks                                    |                   |
 | [Flightmare simulator](https://github.com/uzh-rpg/flightmare)           |             | Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation.                                        | 
 
 
