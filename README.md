@@ -97,4 +97,3 @@ List of open-source algorithms and resources for UAVs
 | [modelling agents w prob](https://agentmodels.org/)    |             | MPD, POMPD, etc.                                                  |                                   |
 | [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) | ROS         | Develop robotic tasks through graphical user interface            |                                             |
 | [Flightmare simulator](https://github.com/uzh-rpg/flightmare)           |             | Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation.                                        | 
-good for RL
