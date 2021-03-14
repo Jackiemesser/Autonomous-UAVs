@@ -37,12 +37,6 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [EVDodgeNet](https://github.com/prgumd/EVDodgeNet)                        | ETH          | obstacle avoidance with event cameras                                                             |                                                                                             |
 | [aeplanner](https://github.com/mseln/aeplanner)                         | KTH          | unknown environment exploration based on octomap                                                  |                                                                                             |
 | [nvbplanner](https://github.com/ethz-asl/nbvplanner)                        | ETH          | unknown environment exploration                                                                   |                                                                                        |
-| [Deep-drone acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics)             | ETH          | fly complex maneuvers with multi-layer perceptron                                                 |                                                                                   |
-| [mav_control_rw](https://github.com/ethz-asl/mav_control_rw)                    | ETH          | trajectory tracking with MPC                                                                      |                                                                                         |
-| [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)             | ETH          | complete framework for flying quadrotors                                                          |                                                                            |
-| [flight controller](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan/tree/experiment/onboard_computer/controller/n3ctrl)                 | HKUST        | high level controller compatible with DJI N3 flight controller                                    |                     |
-
-
 
 ## Autonomy
 
@@ -84,6 +78,11 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 | [MPC ETH](https://github.com/ethz-asl/mav_control_rw)                      | ETH         | also has PX4 implementation (claim badly hacked though)                                                                  |                     |
 | [mavros_controller](https://github.com/Jaeyoung-Lim/mavros_controllers)            | PX4         | trajectory tracking based on geometric control                                                                           |              |
 | [DDC-MPC](https://github.com/uzh-rpg/data_driven_mpc)                      |      ETH       | Data-Driven MPC for Quadrotors
+| [Deep-drone acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics)             | ETH          | fly complex maneuvers with multi-layer perceptron                                                 |                                                                                   |
+| [mav_control_rw](https://github.com/ethz-asl/mav_control_rw)                    | ETH          | trajectory tracking with MPC                                                                      |                                                                                         |
+| [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)             | ETH          | complete framework for flying quadrotors                                                          |                                                                            |
+| [flight controller](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan/tree/experiment/onboard_computer/controller/n3ctrl)                 | HKUST        | high level controller compatible with DJI N3 flight controller                                    |                     |
+
 
 
 ## Useful Tools and Resources
