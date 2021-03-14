@@ -23,8 +23,9 @@ List of open-source algorithms and resources for UAVs
 
 
 ## Navigation
-| mav_trajectory_generation         | ETH          | creates polynomial path                                                                           | :heavy_check_mark: | https://github.com/ethz-asl/mav_trajectory_generation                                                           |
-|-----------------------------------|--------------|---------------------------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------|
+| Algorithm   | Institution    | Background                                                                                                           | ROS           | Link                                                 |
+|-------------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|
+| mav_trajectory_generation         | ETH          | creates polynomial path                                                                           | :heavy_check_mark: | https://github.com/ethz-asl/mav_trajectory_generation                       
 | mav_voxblox_planning              | ETH          | planning tool using voxblox (RRT*, etc.)                                                          | :heavy_check_mark: | https://github.com/ethz-asl/mav_voxblox_planning                                                                |
 | pulp-dronet                       | ETH          | deep learning visual navigation                                                                   |                    | https://github.com/pulp-platform/pulp-dronet                                                                    |
 | Ewok: real-time traj replanning   | TUM          | replanning of global traj, needs prior map                                                        |                    | https://github.com/VladyslavUsenko/ewok                                                                         |
