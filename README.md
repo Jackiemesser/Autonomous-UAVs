@@ -90,7 +90,7 @@ List of open-source algorithms and resources for UAVs
 |----------------------------|-------------|-------------------------------------------------------------------|-----|
 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)             |             | great overview of robotics   |                               
 | [Awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)    |             | important tools for robotic programming |
-| [aweomse-dronecraft](https://github.com/Zarkopafilis/awesome-dronecraft)         |             | everything about drones                                           |                                 |
+| [awesome-dronecraft](https://github.com/Zarkopafilis/awesome-dronecraft)         |             | everything about drones                                           |                                 |
 | [resilience-engineering](https://github.com/lorin/resilience-engineering)     |             | How to make safe systems?                                         |                                 |
 | [Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)      |             | resources for predicting environment like movement of pedestrians |  |
 | [hidden markov model](https://github.com/chauvinSimon/hmm_for_autonomous_driving)        |             | models lane switching, might be interesting                       |                      |
