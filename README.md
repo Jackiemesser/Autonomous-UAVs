@@ -67,6 +67,9 @@ List of open-source algorithms and resources for UAVs
 | [slugs](https://github.com/VerifiableRobotics/slugs)                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
 | [LTL_stack](https://github.com/VerifiableRobotics/LTL_stack)                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark:                    |
 
+| [multidrone_planning](https://github.com/grvcTeam/multidrone_planning) |  | cooperative planning and mission execution in autonomous cinematography with multiple drones| :heavy_check_mark:|
+
+
 ## Controls
 
 | Link   | Who    | Description  | ROS          |
