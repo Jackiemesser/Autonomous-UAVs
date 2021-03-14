@@ -67,3 +67,18 @@ List of open-source algorithms and resources for UAVs
 | slugs                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
 | LTL_stack                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark: | https://github.com/VerifiableRobotics/LTL_stack                    |
 
+## Controls
+
+| Algorithm                    | Institution | Background                                                                                                               | ROS | Link                                                       |
+|------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------|-----|------------------------------------------------------------|
+| lbmpc_ipm                    |             |  Learning-Based Model Predictive Control (LBMPC) that uses the LBmpcIPM solver                                           |     | https://github.com/mhkabir/LBMPC                           |
+| neural_mpc                   | Berkeley    | Model Predictive Control with one-step feedforward neural network dynamics model from Model-based Reinforcement Learning |     | https://github.com/aravindsrinivas/neural-mpc              |
+| Control Toolbox              | ETH         | efficient C++ library for control, estimation, optimization and motion planning in robotics                              |     | https://github.com/ethz-adrl/control-toolbox               |
+| PythonLinearNonlinearControl |             | library implementing the linear and nonlinear control theories in python                                                 |     | https://github.com/Shunichi09/PythonLinearNonlinearControl |
+| rpg_mpc                      | ETH         | Model Predictive Control for Quadrotors with extension to Perception-Aware MPC                                           |     |                                                            |
+| rpg_quadrotor_control        | ETH         | alternative to PX4 that works with RotorS                                                                                |     | https://github.com/uzh-rpg/rpg_quadrotor_control           |
+| gymFC                        |             | flight control tuning framework with a focus in attitude control                                                         |     | https://github.com/wil3/gymfc                              |
+| ACADO toolkit                |             | MPC toolkit that takes care of the implementation                                                                        |     | http://acado.github.io/index.html                          |
+| MPC ETH                      | ETH         | also has PX4 implementation (claim badly hacked though)                                                                  |     | https://github.com/ethz-asl/mav_control_rw                 |
+| mavros_controller            | PX4         | trajectory tracking based on geometric control                                                                           |     | https://github.com/Jaeyoung-Lim/mavros_controllers         |
+| DDC-MPC                      |             | ETH MPC                                                                                                                  |     | https://github.com/uzh-rpg/data_driven_mpc                 |
