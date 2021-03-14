@@ -82,15 +82,14 @@ List of open-source algorithms and resources for UAVs
 | [MPC ETH](https://github.com/ethz-asl/mav_control_rw)                      | ETH         | also has PX4 implementation (claim badly hacked though)                                                                  |                     |
 | [mavros_controller](https://github.com/Jaeyoung-Lim/mavros_controllers)            | PX4         | trajectory tracking based on geometric control                                                                           |              |
 | [DDC-MPC](https://github.com/uzh-rpg/data_driven_mpc)                      |      ETH       | Data-Driven MPC for Quadrotors
-                                                                                                                        |
 
 
 ## Tools
 
 | Algorithm                  | Institution | Description                                                        | ROS    |
 |----------------------------|-------------|-------------------------------------------------------------------|-----|
-| [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)             |             | great overview of robotics                                        |     |                               
-| [Awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)    |             | important tools for robotic programming                           |                                  |
+| [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)             |             | great overview of robotics   |                               
+| [Awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)    |             | important tools for robotic programming |
 | [aweomse-dronecraft](https://github.com/Zarkopafilis/awesome-dronecraft)         |             | everything about drones                                           |                                 |
 | [resilience-engineering](https://github.com/lorin/resilience-engineering)     |             | How to make safe systems?                                         |                                 |
 | [Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)      |             | resources for predicting environment like movement of pedestrians |  |
