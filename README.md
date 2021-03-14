@@ -5,7 +5,7 @@ List of open-source algorithms and resources for UAVs
 
 | Algorithm   | Institution    | Background                                                                                                           | ROS           | Link                                                 |
 |-------------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|
-| voxblox     | ETH            | voxel-based mapping                                                                                                  | :heavy_check_mark:   | [Link]{https://github.com/ethz-asl/voxblox}                  |
+| voxblox     | ETH            | voxel-based mapping                                                                                                  | :heavy_check_mark:   | [Link](https://github.com/ethz-asl/voxblox)                  |
 | maplab      | ETH            | visual inertial mapping                                                                                              | :heavy_check_mark:    | https://github.com/ethz-asl/mav_voxblox_planning     |
 | orb-slam2   |                | sparse 3D reconstruction                                                                                             | :heavy_check_mark:    | https://github.com/raulmur/ORB_SLAM2                 |
 | open_vins   | U. of Delaware | EKF fuses inertial info with sparse visual features                                                                  | :heavy_check_mark: | https://github.com/rpng/open_vins                    |
