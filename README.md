@@ -87,14 +87,14 @@ List of open-source algorithms and resources for UAVs
 
 ## Tools
 
-| Algorithm                  | Institution | Description                                                        | ROS | Link                                                                           |
-|----------------------------|-------------|-------------------------------------------------------------------|-----|--------------------------------------------------------------------------------|
-| PythonRobotics             |             | great overview of robotics                                        |     | https://github.com/AtsushiSakai/PythonRobotics                                 |
-| Awesome-robotic-tooling    |             | important tools for robotic programming                           |     | https://github.com/Ly0n/awesome-robotic-tooling                                |
-| aweomse-dronecraft         |             | everything about drones                                           |     | https://github.com/Zarkopafilis/awesome-dronecraft                             |
-| resilience-engineering     |             | How to make safe systems?                                         |     | https://github.com/lorin/resilience-engineering                                |
-| Trajectory Prediction      |             | resources for predicting environment like movement of pedestrians |     | https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction |
-| hidden markov model        |             | models lane switching, might be interesting                       |     | https://github.com/chauvinSimon/hmm_for_autonomous_driving                     |
-| modelling agents w prob    |             | MPD, POMPD, etc.                                                  |     | https://agentmodels.org/                                                       |
-| hierarchical state machine | ROS         | Develop robotic tasks through graphical user interface            |     | http://wiki.ros.org/smach/Tutorials                                            |
-| Zurich simulator           |             | good for RL                                                       |     | https://github.com/uzh-rpg/flightmare                                          |
+| Algorithm                  | Institution | Description                                                        | ROS    |
+|----------------------------|-------------|-------------------------------------------------------------------|-----|
+| [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)             |             | great overview of robotics                                        |     |                               
+| [Awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)    |             | important tools for robotic programming                           |                                  |
+| [aweomse-dronecraft](https://github.com/Zarkopafilis/awesome-dronecraft)         |             | everything about drones                                           |                                 |
+| [resilience-engineering](https://github.com/lorin/resilience-engineering)     |             | How to make safe systems?                                         |                                 |
+| [Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)      |             | resources for predicting environment like movement of pedestrians |  |
+| [hidden markov model](https://github.com/chauvinSimon/hmm_for_autonomous_driving)        |             | models lane switching, might be interesting                       |                      |
+| [modelling agents w prob](https://agentmodels.org/)    |             | MPD, POMPD, etc.                                                  |                                   |
+| [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) | ROS         | Develop robotic tasks through graphical user interface            |                                             |
+| [Zurich simulator](https://github.com/uzh-rpg/flightmare)           |             | good for RL                                                       |                                          |
