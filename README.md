@@ -42,7 +42,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
 | [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
 
-## Autonomy
+## Decision making
 
 | Link   | Who    | Description  | ROS          |
 |:-------------|-------------|-------------|-------------|
