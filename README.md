@@ -103,5 +103,7 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 ## Labs/Organizations to follow
 | Lab Website | Git | Where       |
 |:-------------|-------------|-------------|
-| [ZJU FAST Lab](http://zju-fast.com/) | [Link](https://github.com/ZJU-FAST-Lab) | China |
+| [Robotics & Perception Group](http://rpg.ifi.uzh.ch/) | [Link](https://github.com/uzh-rpg) | Zurich, Switzerland |
+| [GRASP Lab](https://www.kumarrobotics.org/) | [Link](https://github.com/KumarRobotics) | Philadelphia, USA
+| [ZJU FAST Lab](http://zju-fast.com/) | [Link](https://github.com/ZJU-FAST-Lab) | Hangzhou, China |
 
