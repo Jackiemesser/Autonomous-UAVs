@@ -84,7 +84,7 @@ List of open-source algorithms and resources for UAVs
 | [DDC-MPC](https://github.com/uzh-rpg/data_driven_mpc)                      |      ETH       | Data-Driven MPC for Quadrotors
 
 
-## Tools
+## Useful Tools and Resources
 
 | Algorithm                  | Institution | Description                                                        | ROS    |
 |----------------------------|-------------|-------------------------------------------------------------------|-----|
