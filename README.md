@@ -3,7 +3,7 @@ List of open-source algorithms and resources for UAVs
 
 ## Perception
 
-| Algorithm   | Institution    | Background                                                                                                           | ROS          |
+| Algorithm   | Institution    | Description                                                                                                           | ROS          |
 |-------------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------|
 | [voxblox](https://github.com/ethz-asl/voxblox)     | ETH            | voxel-based mapping                                                                                                  | :heavy_check_mark:     |
 | [maplab](https://github.com/ethz-asl/mav_voxblox_planning)      | ETH            | visual inertial mapping                                                                                              | :heavy_check_mark:       |
