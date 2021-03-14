@@ -65,7 +65,7 @@ List of open-source algorithms and resources for UAVs
 | [Uncertainty estimation in deep learning](https://github.com/mattiasegu/uncertainty_estimation_deep_learning) | ETH          | can quantify uncertainty on existing neural networks                                    |                   |
 | [drif](https://github.com/VerifiableRobotics/slugs)                                    | Cornell      | Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight |                                     |
 | [slugs](https://github.com/VerifiableRobotics/slugs)                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
-| [LTL_stack](https://github.com/VerifiableRobotics/LTL_stack)                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark:                    |
+| [LTL_stack](https://github.com/VerifiableRobotics/LTL_stack)                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark:                    | | 
 
 | [multidrone_planning](https://github.com/grvcTeam/multidrone_planning) |  | cooperative planning and mission execution in autonomous cinematography with multiple drones| :heavy_check_mark:|
 
