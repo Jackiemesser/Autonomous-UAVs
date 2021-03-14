@@ -3,8 +3,8 @@ List of open-source algorithms and resources for UAVs
 
 ## Perception
 
-| Link   | By Who    | Description                                                                                                           | ROS          |
-|:-------------|----------------|-----------------------------------------|---------------|
+| Link   | By Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
 | [voxblox](https://github.com/ethz-asl/voxblox)     | ETH            | voxel-based mapping                                                                                                  | :heavy_check_mark:     |
 | [maplab](https://github.com/ethz-asl/mav_voxblox_planning)      | ETH            | visual inertial mapping                                                                                              | :heavy_check_mark:       |
 | [orb-slam2](https://github.com/raulmur/ORB_SLAM2)   |                | sparse 3D reconstruction                                                                                             | :heavy_check_mark:                  |
@@ -23,8 +23,8 @@ List of open-source algorithms and resources for UAVs
 
 
 ## Navigation
-| Link   | By Who     | Description                                                                                                           | ROS           | 
-|-------------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------|
+| Link   | By Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
 | [mav_trajectory_generation](https://github.com/ethz-asl/mav_trajectory_generation)        | ETH          | creates polynomial path                                                                           | :heavy_check_mark:                 |        
 | [mav_voxblox_planning](https://github.com/ethz-asl/mav_voxblox_planning)        | ETH          | planning tool using voxblox (RRT*, etc.)                                                          | :heavy_check_mark:                                                                 |
 | [pulp-dronet](https://github.com/pulp-platform/pulp-dronet)                       | ETH          | deep learning visual navigation                                                                   |                                                                                       |
@@ -46,8 +46,8 @@ List of open-source algorithms and resources for UAVs
 
 ## Autonomy
 
-| Link   | By Who   | Description                                                                              | ROS                   |
-|-----------------------------------------|--------------|-----------------------------------------------------------------------------------------|--------------------|
+| Link   | By Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
 | [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
 | [dronet: learning to fly](https://github.com/uzh-rpg/rpg_public_dronet)                 | ETH          | deep learning trained from cars to predict steering angle, collision prob               | :heavy_check_mark: | 
 | [Deep RL w Airsim](https://github.com/guillemhub/DRLDBackEnd)                        |              | allows RL with Airsim                                                                   |                                             |
@@ -69,8 +69,8 @@ List of open-source algorithms and resources for UAVs
 
 ## Controls
 
-| Link   | By Who  | Description                                                                                                               | ROS                                                     |
-|------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------|-----|
+| Link   | By Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
 | [lbmpc_ipm](https://github.com/mhkabir/LBMPC)                    |             |  Learning-Based Model Predictive Control (LBMPC) that uses the LBmpcIPM solver                                           |                                |
 | [neural_mpc](https://github.com/aravindsrinivas/neural-mpc)                   | Berkeley    | Model Predictive Control with one-step feedforward neural network dynamics model from Model-based Reinforcement Learning |                   |
 | [Control Toolbox](https://github.com/ethz-adrl/control-toolbox)              | ETH         | efficient C++ library for control, estimation, optimization and motion planning in robotics                              |                    |
@@ -86,8 +86,8 @@ List of open-source algorithms and resources for UAVs
 
 ## Useful Tools and Resources
 
-| Link   | By Who  | Description                                                        | ROS    |
-|----------------------------|-------------|-------------------------------------------------------------------|-----|
+| Link   | By Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)             |             | great overview of robotics   |                               
 | [Awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling)    |             | important tools for robotic programming |
 | [awesome-dronecraft](https://github.com/Zarkopafilis/awesome-dronecraft)         |             | everything about drones                                           |                                 |
