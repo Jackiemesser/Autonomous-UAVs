@@ -44,3 +44,26 @@ List of open-source algorithms and resources for UAVs
 
 
 
+## Autonomy
+
+| Algorithm                               | Institution  | Background                                                                              | ROS                | Link                                                               |
+|-----------------------------------------|--------------|-----------------------------------------------------------------------------------------|--------------------|--------------------------------------------------------------------|
+| sim2real_drone_racing                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark: | https://github.com/uzh-rpg/sim2real_drone_racing                   |
+| dronet: learning to fly                 | ETH          | deep learning trained from cars to predict steering angle, collision prob               | :heavy_check_mark: | https://github.com/uzh-rpg/rpg_public_dronet                       |
+| Deep RL w Airsim                        |              | allows RL with Airsim                                                                   |                    | https://github.com/guillemhub/DRLDBackEnd                          |
+| Autonomous UAV swarms                   |              |                                                                                         |                    | https://github.com/AlexJinlei/Autonomous_UAVs_Swarm_Mission        |
+| autonomous-drone                        |              | enable autonomous drone delivery w Aero RTF and PX4                                     | :heavy_check_mark: | https://github.com/szebedy/autonomous-drone                        |
+| PEDRA                                   | Georgia Tech | RL for drones with unreal engine                                                        |                    | https://github.com/aqeelanwar/PEDRA                                |
+| Apollo Autonomous Driving               | Apollo       | Full autonomous driving stack                                                           |                    | https://github.com/ApolloAuto/apollo                               |
+| ROS_behavior_tree                       |              | Behavior trees for autonomy                                                             |                    | https://github.com/miccol/ROS-Behavior-Tree                        |
+| planning in ROS                         |              | generic method for task planning                                                        | :heavy_check_mark: | https://github.com/KCL-Planning/ROSPlan                            |
+| HKUST Aerial Robotics                   | HKUST        | a complete and robust system for aggressive flight in complex environment               |                    | https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan       |
+| EDUM Planner                            | HKUST        | decision-making for automated driving using guided branching                            |                    | https://github.com/HKUST-Aerial-Robotics/eudm_planner              |
+| autoware.ai                             |              | self-driving vehicles                                                                   |                    | https://github.com/autowarefoundation/autoware.ai                  |
+| PX4 generalized intelligence            |              | low-level autonomy for PX4                                                              |                    | https://github.com/generalized-intelligence/GAAS                   |
+| PX4 avoidance                           |              |                                                                                         |                    | https://github.com/PX4/avoidance                                   |
+| Uncertainty estimation in deep learning | ETH          | can quantify uncertainty on existing neural networks                                    |                    | https://github.com/mattiasegu/uncertainty_estimation_deep_learning |
+| drif                                    | Cornell      | Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight |                    | https://github.com/VerifiableRobotics/slugs                        |
+| slugs                                   |              | slugs - SmalL bUt Complete GROne Synthesizer                                            |                    |                                                                    |
+| LTL_stack                               |              | ROS Packages for running correct-by-construction controllers with ROS                   | :heavy_check_mark: | https://github.com/VerifiableRobotics/LTL_stack                    |
+
