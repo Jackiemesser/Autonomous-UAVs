@@ -102,7 +102,7 @@ List of open-source algorithms and resources for UAVs. This list is a work in pr
 
 
 ## Labs/Organizations to follow
-| Github Link   | Lab Website | Where       |
+| Lab Website | Git | Where       |
 |:-------------|-------------|-------------|
-| [ZJU FAST Lab Github](https://github.com/ZJU-FAST-Lab) | [Lab](http://zju-fast.com/) | China |
+| [Lab](http://zju-fast.com/) | [ZJU FAST Lab Github](https://github.com/ZJU-FAST-Lab) | China |
 
