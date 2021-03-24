@@ -62,6 +62,13 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [multidrone_planning](https://github.com/grvcTeam/multidrone_planning)  | | cooperative planning and mission execution in autonomous cinematography with multiple drones| :heavy_check_mark:|
 
 
+## Multi-Agent
+
+| Link   | Who    | Description  | ROS          |
+|:-------------|-------------|-------------|-------------|
+| [Robofleet](https://github.com/ut-amrl/robofleet) | UT Austin | Web-based multi-robot control and visualization for ROS | :heavy_check_mark:  |
+
+
 ## Controls
 
 | Link   | Who    | Description  | ROS          |
