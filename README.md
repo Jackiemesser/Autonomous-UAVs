@@ -41,6 +41,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [PX4 generalized intelligence](https://github.com/generalized-intelligence/GAAS)            |              | low-level autonomy for PX4                                                              |                                      |
 | [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
 | [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
+| [waypoint_navigator](https://github.com/ethz-asl/waypoint_navigator) | ETH | high-level waypoint-following for micro aerial vehicles | :heavy_check_mark: |
 
 ## Strategic Decision-Making
 
@@ -88,7 +89,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [mav_control_rw](https://github.com/ethz-asl/mav_control_rw)                    | ETH          | trajectory tracking with MPC                                                                      |                                                                                         |
 | [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)             | ETH          | complete framework for flying quadrotors                                                          |                                                                            |
 | [flight controller](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan/tree/experiment/onboard_computer/controller/n3ctrl)                 | HKUST        | high level controller compatible with DJI N3 flight controller                                    |                     |
-| [mavros_trajectory_tracking](https://github.com/mzahana/mavros_trajectory_tracking) | | combines mav_trajectory_generation and waypoint_navigator with mavros_controller | | 
+| [mavros_trajectory_tracking](https://github.com/mzahana/mavros_trajectory_tracking) | | combines mav_trajectory_generation and waypoint_navigator with mavros_controller |:heavy_check_mark: | 
 
 
 
