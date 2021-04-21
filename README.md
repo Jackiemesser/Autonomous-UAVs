@@ -42,6 +42,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [PX4 avoidance](https://github.com/PX4/avoidance)                           |              |        low-level autonomy for PX4           |
 | [sim2real_drone_racing](https://github.com/uzh-rpg/sim2real_drone_racing)                   | ETH          | deep learning Sim2Real Drone racing                                                     | :heavy_check_mark:                  |
 | [waypoint_navigator](https://github.com/ethz-asl/waypoint_navigator) | ETH | high-level waypoint-following for micro aerial vehicles | :heavy_check_mark: |
+| [autonomousmavs](https://github.com/IntelLabs/autonomousmavs) | | navigation in cluttered environment | :heavy_check_mark: |
 
 ## Strategic Decision-Making
 
