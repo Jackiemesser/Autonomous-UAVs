@@ -108,8 +108,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [hierarchical state machine](http://wiki.ros.org/smach/Tutorials) |          | Develop robotic tasks through graphical user interface            |                                             |
 | [Uncertainty estimation in deep learning](https://github.com/mattiasegu/uncertainty_estimation_deep_learning) | ETH          | can quantify uncertainty on existing neural networks                                    |                   |
 | [Flightmare simulator](https://github.com/uzh-rpg/flightmare)           |             | Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation.                                        | |
-| [US-manufactured drones](https://dronelife.com/2021/05/13/u-s-based-drone-manufacturers-check-out-our-updated-list/) | | A list of drones manufactured in the US 
-| 
+| [US-manufactured drones](https://dronelife.com/2021/05/13/u-s-based-drone-manufacturers-check-out-our-updated-list/) | | A list of drones manufactured in the US.
 
 ## Labs/Organizations to follow
 | Lab Website | Git | Where       |
