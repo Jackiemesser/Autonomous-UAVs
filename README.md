@@ -20,7 +20,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [nanomap](https://github.com/peteflorence/nanomap_ros)  | MIT            | fast, uncertainty-aware proximity queries with lazy search of local 3D data                                          |                 |
 | [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio)  | UPenn          | package is a stereo version of MSCKF                                                                                 |                   |
 | [VINS_mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)   | HKUST          | Robust and Versatile Monocular Visual-Inertial State Estimator                                                       |    |
-
+| [SLAM_toolbox](https://github.com/SteveMacenski/slam_toolbox) | | SLAM for massive maps | :heavy_check_mark:  |
 
 ## Navigation
 | Link   | Who    | Description  | ROS          |
