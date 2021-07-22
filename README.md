@@ -5,6 +5,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 
 | Link   | Who    | Description  | ROS          |
 |:-------------|-------------|-------------|-------------|
+| [visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap)     |             | Roadmap for SLAM                                                                                                  |      |
 | [voxblox](https://github.com/ethz-asl/voxblox)     | ETH            | voxel-based mapping                                                                                                  | :heavy_check_mark:     |
 | [maplab](https://github.com/ethz-asl/mav_voxblox_planning)      | ETH            | visual inertial mapping                                                                                              | :heavy_check_mark:       |
 | [orb-slam2](https://github.com/raulmur/ORB_SLAM2)   |                | sparse 3D reconstruction                                                                                             | :heavy_check_mark:                  |
