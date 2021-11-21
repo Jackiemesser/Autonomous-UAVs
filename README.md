@@ -70,7 +70,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | Link   | Who    | Description  | ROS          |
 |:-------------|-------------|-------------|-------------|
 | [Robofleet](https://github.com/ut-amrl/robofleet) | UT Austin | Web-based multi-robot control and visualization for ROS | :heavy_check_mark:  |
-
+| [Swarm-Formation](https://github.com/ZJU-FAST-Lab/Swarm-Formation) | ZJU FAST-Lab | Distributed Swarm Trajectory Optimization for Formation Flight in Dense Environments | |
 
 ## Controls
 
