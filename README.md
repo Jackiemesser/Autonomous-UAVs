@@ -92,6 +92,7 @@ List of open-source algorithms and resources for autonomous drones. The list is 
 | [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)             | ETH          | complete framework for flying quadrotors                                                          |                                                                            |
 | [flight controller](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan/tree/experiment/onboard_computer/controller/n3ctrl)                 | HKUST        | high level controller compatible with DJI N3 flight controller                                    |                     |
 | [mavros_trajectory_tracking](https://github.com/mzahana/mavros_trajectory_tracking) | | combines mav_trajectory_generation and waypoint_navigator with mavros_controller |:heavy_check_mark: | 
+| [system identification scripts](https://github.com/ethz-asl/mav_system_identification) |ETH | calculates model parameters for a drone | |
 
 
 
